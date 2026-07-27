@@ -1,0 +1,22 @@
+{
+    "version": "0.8.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/soren-achebe/backscroll/releases/download/v0.8.0/backscroll_windows_amd64.zip",
+            "bin": [
+                "backscroll.exe"
+            ],
+            "hash": "41d0f394acdb03dde6e29361382ee5d403f8f864f26085186dea0c85a2517859"
+        },
+        "arm64": {
+            "url": "https://github.com/soren-achebe/backscroll/releases/download/v0.8.0/backscroll_windows_arm64.zip",
+            "bin": [
+                "backscroll.exe"
+            ],
+            "hash": "6d67b06e543f694ee02edd1580170088bd9143b6881bda07ca39b33369641b74"
+        }
+    },
+    "homepage": "https://github.com/soren-achebe/backscroll",
+    "license": "MIT",
+    "description": "Never lose a command's output: per-command searchable terminal history"
+}
