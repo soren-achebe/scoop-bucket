@@ -1,19 +1,19 @@
 {
-    "version": "0.9.1",
+    "version": "0.9.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/soren-achebe/backscroll/releases/download/v0.9.1/backscroll_windows_amd64.zip",
+            "url": "https://github.com/soren-achebe/backscroll/releases/download/v0.9.2/backscroll_windows_amd64.zip",
             "bin": [
                 "backscroll.exe"
             ],
-            "hash": "388b1939281cda3d47c65cab3d2b3c9788fefbbea846dfa2db1f7a315ef0683c"
+            "hash": "8fe67375632c96243b662d1e878826b8e502d262272aeffd9027e74cadfe8901"
         },
         "arm64": {
-            "url": "https://github.com/soren-achebe/backscroll/releases/download/v0.9.1/backscroll_windows_arm64.zip",
+            "url": "https://github.com/soren-achebe/backscroll/releases/download/v0.9.2/backscroll_windows_arm64.zip",
             "bin": [
                 "backscroll.exe"
             ],
-            "hash": "6f5c15a61873392aa24ac01fc6c5295fb9f673c7dac99335f8ad4f4f0163872d"
+            "hash": "6851428b68f7f5ef51097c97d490daf98d230df2e0c64a35e17809438e148684"
         }
     },
     "homepage": "https://github.com/soren-achebe/backscroll",
